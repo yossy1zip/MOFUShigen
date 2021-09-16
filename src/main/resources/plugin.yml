@@ -1,0 +1,5 @@
+name: MOFUShigen
+version: ${project.version}
+main: com.yiorno.mofushigen.MOFUShigen
+api-version: 1.16
+prefix: Shigen
